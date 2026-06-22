@@ -1,0 +1,21 @@
+{
+  "name": "Deucarian.Progression.Tests",
+  "rootNamespace": "Deucarian.Progression.Tests",
+  "references": [
+    "Deucarian.Progression",
+    "Deucarian.GameplayFoundation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

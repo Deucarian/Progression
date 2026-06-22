@@ -1,0 +1,21 @@
+{
+  "name": "com.deucarian.progression",
+  "version": "0.1.0",
+  "displayName": "Deucarian Progression",
+  "description": "Pure C# progression foundations for currencies, tracks, rewards, unlocks, research graphs, milestones, snapshots, and deterministic result deltas.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Deucarian"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.deucarian.gameplay-foundation": "0.1.0"
+  },
+  "samples": [
+    {
+      "displayName": "Progression Sandbox",
+      "description": "Small pure C# example for currency, XP, unlock, and research operations.",
+      "path": "Samples~/ProgressionSandbox"
+    }
+  ]
+}
