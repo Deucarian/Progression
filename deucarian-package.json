@@ -1,0 +1,20 @@
+{
+  "packageId": "com.deucarian.progression",
+  "displayName": "Deucarian Progression",
+  "ownedCapabilities": [],
+  "runtimeAssemblies": [
+    "Deucarian.Progression"
+  ],
+  "editorAssemblies": [],
+  "sampleAssemblies": [],
+  "testAssemblies": [
+    "Deucarian.Progression.Tests"
+  ],
+  "requiredDependencies": [
+    "com.deucarian.gameplay-foundation"
+  ],
+  "optionalVersionDefinedDependencies": [],
+  "allowedDirectDebugCalls": [],
+  "allowedDirectUnityObjectLifetimeCalls": [],
+  "expectedSamplesRoot": "Samples~"
+}
