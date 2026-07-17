@@ -1,6 +1,6 @@
 {
   "name": "com.deucarian.progression",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Deucarian Progression",
   "description": "Pure C# progression foundations for currencies, tracks, rewards, unlocks, research graphs, milestones, snapshots, and deterministic result deltas.",
   "unity": "6000.3",
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "com.deucarian.gameplay-foundation": "0.1.0"
+    "com.deucarian.gameplay-foundation": "0.1.1"
   },
   "samples": [
     {
