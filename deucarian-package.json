@@ -1,12 +1,15 @@
 {
   "packageId": "com.deucarian.progression",
   "displayName": "Deucarian Progression",
+  "samplePolicy": "compiled-example",
   "ownedCapabilities": [],
   "runtimeAssemblies": [
     "Deucarian.Progression"
   ],
   "editorAssemblies": [],
-  "sampleAssemblies": [],
+  "sampleAssemblies": [
+    "Deucarian.Progression.ProgressionSandbox"
+  ],
   "testAssemblies": [
     "Deucarian.Progression.Tests"
   ],
