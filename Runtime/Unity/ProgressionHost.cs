@@ -15,9 +15,9 @@ namespace Deucarian.Progression.Unity
             if (profile != null) throw new InvalidOperationException("The progression host is already configured.");
             profile = value ?? throw new ArgumentNullException(nameof(value));
         }
-        public ProgressionResult GrantReward(string rewardId, string operationId) => Profile.GrantReward(rewardId, operationId);
-        public ProgressionResult PurchaseResearch(string researchId, string operationId) => Profile.PurchaseResearch(researchId, operationId);
-        public ProgressionAmount GetBalance(string currencyId) => Profile.GetBalance(currencyId);
+        public ProgressionResult GrantReward(RewardKey key, ProgressionOperationId operationId) => Profile.GrantReward(key, operationId);
+        public ProgressionResult PurchaseResearch(ResearchKey key, ProgressionOperationId operationId) => Profile.PurchaseResearch(key, operationId);
+        public ProgressionAmount GetBalance(CurrencyKey key) => Profile.GetBalance(key);
         public ProgressionSnapshot Snapshot => Profile.Snapshot;
         private ProgressionProfile Profile => profile ?? throw new InvalidOperationException("Configure the progression host first.");
         private void OnDestroy() { destroyed = true; profile = null; }
