@@ -1,6 +1,6 @@
 {
   "name": "com.deucarian.progression",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "displayName": "Deucarian Progression",
   "description": "Pure C# progression foundations for currencies, tracks, rewards, unlocks, research graphs, milestones, snapshots, and deterministic result deltas.",
   "unity": "6000.3",
@@ -13,8 +13,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "com.deucarian.gameplay-foundation": "0.1.1",
-    "com.deucarian.editor": "1.10.8"
+    "com.deucarian.gameplay-foundation": "0.2.0",
+    "com.deucarian.editor": "1.12.0"
   },
   "samples": [
     {
@@ -26,6 +26,11 @@
       "displayName": "Simple Usage",
       "description": "Minimal calls through the configured package host.",
       "path": "Samples~/SimpleUsage"
+    },
+    {
+      "displayName": "Definition Workflow",
+      "description": "Playable scene with typed C# calls, Inspector components, editable definitions and shared host ownership.",
+      "path": "Samples~/DefinitionWorkflow"
     }
   ]
 }
