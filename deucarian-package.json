@@ -4,11 +4,13 @@
   "samplePolicy": "compiled-example",
   "ownedCapabilities": [],
   "runtimeAssemblies": [
-    "Deucarian.Progression"
+    "Deucarian.Progression",
+    "Deucarian.Progression.Unity"
   ],
   "editorAssemblies": [],
   "sampleAssemblies": [
-    "Deucarian.Progression.ProgressionSandbox"
+    "Deucarian.Progression.ProgressionSandbox",
+    "Deucarian.Progression.Samples.SimpleUsage"
   ],
   "testAssemblies": [
     "Deucarian.Progression.Tests"

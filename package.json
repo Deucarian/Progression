@@ -20,6 +20,11 @@
       "displayName": "Progression Sandbox",
       "description": "Small pure C# example for currency, XP, unlock, and research operations.",
       "path": "Samples~/ProgressionSandbox"
+    },
+    {
+      "displayName": "Simple Usage",
+      "description": "Minimal calls through the configured package host.",
+      "path": "Samples~/SimpleUsage"
     }
   ]
 }

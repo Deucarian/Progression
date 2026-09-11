@@ -1,0 +1,7 @@
+{
+  "name": "Deucarian.Progression.Unity",
+  "rootNamespace": "Deucarian.Progression.Unity",
+  "references": ["Deucarian.Progression"],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

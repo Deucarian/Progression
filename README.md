@@ -1,5 +1,7 @@
 # Deucarian Progression
 
+For simple calls and setup, see [Simple usage](Documentation~/SimpleUsage.md).
+
 `com.deucarian.progression` provides pure C# progression foundations for Deucarian games.
 
 The package owns:

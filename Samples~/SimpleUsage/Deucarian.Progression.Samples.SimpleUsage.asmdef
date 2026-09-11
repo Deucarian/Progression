@@ -1,0 +1,9 @@
+{
+  "name": "Deucarian.Progression.Samples.SimpleUsage",
+  "references": [
+    "Deucarian.Progression",
+    "Deucarian.Progression.Unity"
+  ],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}
