@@ -13,13 +13,19 @@
   },
   "license": "MIT",
   "dependencies": {
-    "com.deucarian.gameplay-foundation": "0.1.1"
+    "com.deucarian.gameplay-foundation": "0.1.1",
+    "com.deucarian.editor": "1.10.8"
   },
   "samples": [
     {
       "displayName": "Progression Sandbox",
       "description": "Small pure C# example for currency, XP, unlock, and research operations.",
       "path": "Samples~/ProgressionSandbox"
+    },
+    {
+      "displayName": "Simple Usage",
+      "description": "Minimal calls through the configured package host.",
+      "path": "Samples~/SimpleUsage"
     }
   ]
 }

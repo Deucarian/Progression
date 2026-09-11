@@ -1,0 +1,20 @@
+{
+  "name": "Deucarian.Progression.Editor",
+  "rootNamespace": "Deucarian.Progression.Editor",
+  "references": [
+    "Deucarian.Progression",
+    "Deucarian.Editor",
+    "Deucarian.Progression.Unity"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
