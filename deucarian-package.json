@@ -12,14 +12,16 @@
   ],
   "sampleAssemblies": [
     "Deucarian.Progression.ProgressionSandbox",
-    "Deucarian.Progression.Samples.SimpleUsage"
+    "Deucarian.Progression.Samples.SimpleUsage",
+    "Deucarian.Progression.Unity.Samples.DefinitionWorkflow",
+    "Deucarian.Samples.Progression.DefinitionDeclarations"
   ],
   "testAssemblies": [
     "Deucarian.Progression.Tests"
   ],
   "requiredDependencies": [
-    "com.deucarian.editor",
-    "com.deucarian.gameplay-foundation"
+    "com.deucarian.gameplay-foundation",
+    "com.deucarian.editor"
   ],
   "optionalVersionDefinedDependencies": [],
   "allowedDirectDebugCalls": [],

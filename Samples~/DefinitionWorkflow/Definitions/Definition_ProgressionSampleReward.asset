@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf9a6da52888bf49ada5fb4d4d4224c, type: 3}
+  m_Name: Definition_ProgressionSampleReward
+  m_EditorClassIdentifier: Deucarian.Progression.Unity::Deucarian.Progression.Unity.RewardDefinitionAsset
+  id: f48fd3f7a8f04c419e8d17e8d7d47f1f
+  displayName: ProgressionSampleReward
+  currency: {fileID: 11400000, guid: 202e19d1c54174e4393c4e7ac3814bba, type: 2}
+  amount: 10

@@ -1,5 +1,15 @@
 # Deucarian Progression
 
+## Typed definition workflow
+
+A reward reuses its currency and amount from Definitions. Retrying the same operation cannot grant twice. A new operation represents a new reward.
+
+Start with the [Definition Workflow walkthrough](Documentation~/DefinitionWorkflow.md).
+Import **Definition Workflow** in Package Manager for a configured sample scene
+and short caller scripts. Definitions can be edited as assets or editable C# declarations; generated keys
+work in code and Inspector dropdowns.
+
+
 For simple calls and setup, see [Simple usage](Documentation~/SimpleUsage.md).
 
 `com.deucarian.progression` provides pure C# progression foundations for Deucarian games.
