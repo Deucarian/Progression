@@ -1,0 +1,7 @@
+{
+  "name": "Deucarian.Progression.Unity.Samples.DefinitionWorkflow",
+  "references": [
+    "Deucarian.Progression",
+    "Deucarian.Progression.Unity"
+  ]
+}

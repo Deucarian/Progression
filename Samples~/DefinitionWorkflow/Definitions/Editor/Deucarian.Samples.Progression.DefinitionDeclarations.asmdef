@@ -1,0 +1,5 @@
+{
+  "name": "Deucarian.Samples.Progression.DefinitionDeclarations",
+  "references": ["Deucarian.Editor", "Deucarian.Progression.Editor", "Deucarian.Progression.Unity"],
+  "includePlatforms": ["Editor"]
+}
